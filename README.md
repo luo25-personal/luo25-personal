@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c96,100:3a6fd8&height=200&section=header&text=Hi%20👋%20I'm%20Sam&fontSize=56&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b6fe8,100:74b3ff&height=200&section=header&text=Hi%20👋%20I'm%20Sam&fontSize=56&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 <h3 align="center">M.S. in Biomedical Informatics<br>National Yang Ming Chiao Tung University</h3>
 
