@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&0:dbe6fb,100:f5f8ff&height=200&section=header&text=Hi%20👋%20I'm%20Sam&fontSize=56&fontColor=ffffff&fontAlignY=45" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe6fb,100:f5f8ff&height=200&section=header&text=Hi%20👋%20I'm%20Sam&fontSize=56&fontColor=1e3c96&fontAlignY=45" width="100%"/>
 <h3 align="center">M.S. in Biomedical Informatics<br>National Yang Ming Chiao Tung University</h3>
 
 ## Areas of Expertise
